@@ -106,4 +106,4 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/apolinario0x21/unitTestLab/blob/main/LICENSE) para mais detalhes.
 
-Feito com ❤️ por apolinario0x21
+Feito com ❤️ por ```apolinario0x21```
