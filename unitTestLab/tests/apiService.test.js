@@ -21,5 +21,7 @@ describe('Testando chamada para API externa', () => { // teste para a função g
 
     it('Deve lançar um erro quando a API falhar', async () => {
         axios.get.mockRejectedValue(new Error('Erro na API'))
+
+    await expect(apiService.getData()).rejects.toThrow('Erro ao buscando dados da API')
     })
 })
